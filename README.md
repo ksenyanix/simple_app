@@ -1,4 +1,4 @@
-# testtask_Windy
+# testtask_Simple_app
 Тестовое задание на роль аналитика в Simple app
 
 1. Вам дана выгрузка событий из web-воронки 
